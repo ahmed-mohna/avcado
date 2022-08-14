@@ -93,6 +93,11 @@
     {
       "filename" : "Icon-76@2x.png",
       "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
